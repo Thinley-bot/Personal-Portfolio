@@ -44,7 +44,7 @@ export default function Hero() {
               </a>
               <div className="flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-sm rounded-lg">
                 <MapPin size={18} />
-                <span className="text-sm">RTC, Thimphu</span>
+                <span className="text-sm">RTC, Thimphu, Bhutan</span>
               </div>
             </div>
 
